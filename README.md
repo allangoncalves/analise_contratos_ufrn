@@ -25,7 +25,14 @@ Foi necessário coletar mais alguns dados como ***demarcação do território da
 > Para trabalhos futuros, planejamos investigar o quadro de sócio das empresas e tentar encontrar ligações em uma rede de pessoas.
 
 #### Membros:
-* [Ailson F. dos Santos](https://github.com/ailsonfds)
-* [Allan Gonçalves](https://github.com/allangoncalves) (Análise, Coleta e Limpeza)
-* [Cinthia Katiane](https://github.com/CinthiaKatiane)
-* [Wellington Miguel](https://github.com/I-am-Miguel)
+* [Ailson F. dos Santos](https://github.com/ailsonfds):
+ailsonforte@hotmail.com
+* [Allan Gonçalves](https://github.com/allangoncalves):
+allangoncalves@outlook.com
+(Análise, Coleta e Limpeza)
+* [Cinthia Katiane](https://github.com/CinthiaKatiane):
+cinthia.cka@gmail.com
+(Análise e revisão)
+* [Wellington Miguel](https://github.com/I-am-Miguel):
+miguelwelligton@gmail.com
+
