@@ -26,7 +26,7 @@ Foi necessário coletar mais alguns dados como ***demarcação do território da
 
 #### Membros:
 * [Ailson F. dos Santos](https://github.com/ailsonfds):
-ailsonforte@hotmail.com
+ailsonforte@hotmail.com (Análise e revisão)
 * [Allan Gonçalves](https://github.com/allangoncalves):
 allangoncalves@outlook.com
 (Análise, Coleta e Limpeza)
