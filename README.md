@@ -22,7 +22,7 @@ Para coletar tais dados, utilizamos a API do Google [Geocoding](https://develope
 
 Foi necessário coletar mais alguns dados como ***demarcação do território das cidades*** mas infelizmente não foi encontrada nenhuma API que disponibilizava tais dados e o processo teve de ser manual.
 
-Para trabalhos futuros, planejamos investigar o quadro de sócio das empresas e tentar encontrar ligações em uma rede de pessoas.
+> Para trabalhos futuros, planejamos investigar o quadro de sócio das empresas e tentar encontrar ligações em uma rede de pessoas.
 
 #### Membros:
 * [Ailson F. dos Santos](https://github.com/ailsonfds)
